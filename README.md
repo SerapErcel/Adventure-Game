@@ -1,3 +1,3 @@
 # Adventure-Game
-JAVA - Object Oriented Programming
+JAVA - OOP
 Console game with object oriented programming
